@@ -3,5 +3,8 @@
 
 I'm Sasha and I`m a Frontend Developer from Moscow
 
-💻 I’m currently working on TypeScript,ReactJS.
+💻 I’m currently working on TypeScript,ReactJS. <br>
 📚 I’m currently learning TypeScript and JS improvements.
+
+CONNECT WITH ME:
+@sasha_vikh
