@@ -9,5 +9,5 @@ I'm Sasha and I`m a Frontend Developer from Moscow
 CONNECT WITH ME:<br>
 <a href="https://t.me/sasha_vikh" target="blank">Telegram</a>📱
 
-TECHNOLOGIeS: <br>
-<img src="https://icons8.ru/icon/NfbyHexzVEDk/реакция"/>
+TECHNOLOGIES: <br>
+<img src="[https://icons8.ru/icon/NfbyHexzVEDk/реакция"](https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png)/>
