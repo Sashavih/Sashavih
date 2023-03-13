@@ -8,3 +8,6 @@ I'm Sasha and I`m a Frontend Developer from Moscow
 
 CONNECT WITH ME:<br>
 <a href="https://t.me/sasha_vikh" target="blank">Telegram</a>📱
+
+TECHNOLOGIeS: <br>
+<img src="https://icons8.ru/icon/NfbyHexzVEDk/реакция"/>
