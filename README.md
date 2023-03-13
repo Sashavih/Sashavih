@@ -1,20 +1,17 @@
 <h1 align="center">Hi
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Sasha's+Github+Profile..)](https://git.io/typing-svg)
 I'm Sasha and I`m a Frontend Developer from Moscow
-
-<div id="header" align="start">
-  <img src="https://media4.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=ecf05e47l27vsn7hyv16z9vnjkb2zewqdvydl96vv5becv46&rid=giphy.gif&ct=g" width="200"/>
-</div>
 
 - 💻 I’m currently working on TypeScript,ReactJS. <br>
 - 🎓 I’m currently learning TypeScript and JS improvements.
 
-### CONNECT WITH ME:<br>
+### Connect with me:
 - 📱 <a href="https://t.me/sasha_vikh" target="blank">Telegram</a>
 
 
-### TECHNOLOGIES: <br>
+### Technologies:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="React" width="40" height="40"/>&nbsp;
