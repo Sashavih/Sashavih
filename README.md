@@ -7,4 +7,4 @@ I'm Sasha and I`m a Frontend Developer from Moscow
 📚 I’m currently learning TypeScript and JS improvements.
 
 CONNECT WITH ME:<br>
-<a href="t.me/@sasha_vikh" target="blank">Telegram</a>
+<a href="https://t.me/sasha_vikh" color="red" target="blank">Telegram</a>
