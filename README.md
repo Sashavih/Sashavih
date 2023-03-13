@@ -1,7 +1,7 @@
 <h1 align="center">Hi
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Sasha's+Github+Profile..)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Sasha's+Github+Profile)](https://git.io/typing-svg)
 
 I'm Sasha and I`m a Frontend Developer from Moscow
 
